@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "$((cp -r myfile.txt>
+copyfile.txt))"
+
